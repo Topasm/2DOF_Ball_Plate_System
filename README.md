@@ -5,7 +5,7 @@ Highlights
 
 * Arduino Due
 * 8inch touch screen w HID touch controller
-* 2x RC servo
+* 2x RC servo (Hitec HS-7980TH)
 * Arduino USB Shield
 * PID controll
 
